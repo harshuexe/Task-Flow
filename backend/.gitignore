@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+database.db
+*.db
+__pycache__/
+*.py[cod]
+static/uploads/
