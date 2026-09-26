@@ -55,3 +55,4 @@ The frontend runs at `http://localhost:3000` and the API runs at `http://localho
 - `/files` - uploads and file records
 - `/activity` - activity history
 - `/dashboard/stats` - dashboard metrics
+.
